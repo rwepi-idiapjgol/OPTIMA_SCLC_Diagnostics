@@ -36,4 +36,4 @@ This code is designed to run CohortDiagnostics and Drug Exposure Diagnostics on 
     3) Open and work through the <i>CodeToRun.R</i>, which is the primary file you'll need. Execute the lines in the file, adding your database-specific information as instructed in the comments. To run the study, use the command <i>
     source(here("RunAnalysis.R")</i>
     4) After running the analysis, merge the results with the provided line. You will find a zip folder with results in your output folder
-   
+   5) To check your results, you can move the resultant zip folder to the "DrugExposureDiagnosticsShiny" inside the "data" folder, open the project, run renv::activate and run::restore, and then shiny::runApp()
