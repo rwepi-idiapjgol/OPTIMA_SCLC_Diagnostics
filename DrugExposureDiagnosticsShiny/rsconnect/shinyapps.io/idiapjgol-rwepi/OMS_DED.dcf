@@ -1,0 +1,12 @@
+name: OMS_DED
+title: OMS_DED
+username: idiapjgol-rwepi
+account: idiapjgol-rwepi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15705785
+bundleId: 11011787
+url: https://idiapjgol-rwepi.shinyapps.io/OMS_DED/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
