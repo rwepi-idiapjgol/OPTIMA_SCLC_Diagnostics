@@ -3809,30 +3809,6 @@
           }
         ]
       }
-    },
-    {
-      "id": 9,
-      "name": "[OPTIMA LRQ 16] Etoposide",
-      "expression": {
-        "items": [
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Ingredient",
-              "CONCEPT_CODE": "4179",
-              "CONCEPT_ID": 1350504,
-              "CONCEPT_NAME": "etoposide",
-              "DOMAIN_ID": "Drug",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "RxNorm"
-            },
-            "includeDescendants": true,
-            "includeMapped": true
-          }
-        ]
-      }
     }
   ],
   "PrimaryCriteria": {

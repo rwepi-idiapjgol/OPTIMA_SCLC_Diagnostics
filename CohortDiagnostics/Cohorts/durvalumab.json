@@ -3787,29 +3787,6 @@
       }
     },
     {
-      "id": 10,
-      "name": "Atezolizumab",
-      "expression": {
-        "items": [
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Ingredient",
-              "CONCEPT_CODE": "1792776",
-              "CONCEPT_ID": 42629079,
-              "CONCEPT_NAME": "atezolizumab",
-              "DOMAIN_ID": "Drug",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "RxNorm"
-            },
-            "includeDescendants": true
-          }
-        ]
-      }
-    },
-    {
       "id": 11,
       "name": "Durvalumab",
       "expression": {

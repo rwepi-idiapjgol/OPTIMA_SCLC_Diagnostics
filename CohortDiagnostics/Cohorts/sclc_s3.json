@@ -3907,29 +3907,6 @@
       }
     },
     {
-      "id": 8,
-      "name": "Lung cancer stage 2",
-      "expression": {
-        "items": [
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Staging/Grading",
-              "CONCEPT_CODE": "8th_AJCC/UICC-Stage-2",
-              "CONCEPT_ID": 1634316,
-              "CONCEPT_NAME": "AJCC/UICC 8th Stage 2",
-              "DOMAIN_ID": "Measurement",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "Cancer Modifier"
-            },
-            "includeDescendants": true
-          }
-        ]
-      }
-    },
-    {
       "id": 9,
       "name": "Lung cancer stage 3",
       "expression": {
@@ -3940,6 +3917,21 @@
               "CONCEPT_CODE": "8th_AJCC/UICC-Stage-3",
               "CONCEPT_ID": 1633462,
               "CONCEPT_NAME": "AJCC/UICC 8th Stage 3",
+              "DOMAIN_ID": "Measurement",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "Cancer Modifier"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Staging/Grading",
+              "CONCEPT_CODE": "AJCC/UICC-Stage-3",
+              "CONCEPT_ID": 1633650,
+              "CONCEPT_NAME": "AJCC/UICC Stage 3",
               "DOMAIN_ID": "Measurement",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",

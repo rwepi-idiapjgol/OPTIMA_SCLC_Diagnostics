@@ -3918,6 +3918,21 @@
             },
             "isExcluded": true,
             "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Procedure",
+              "CONCEPT_CODE": "359623004",
+              "CONCEPT_ID": 4234745,
+              "CONCEPT_NAME": "Total lobectomy of lung",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
           }
         ]
       }
